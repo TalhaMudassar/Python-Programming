@@ -77,3 +77,5 @@ invalid_str = "abc"
 # print(int(invalid_str))  # ❌ Error: cannot convert letters to int
 print("Cannot convert 'abc' to int - would cause ValueError!")
 
+### 
+PRINT("NEW CODE")
